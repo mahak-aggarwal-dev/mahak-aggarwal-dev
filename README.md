@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Mahak Agarwal! 👋
 
-<!--
-**mahak-aggarwal-dev/mahak-aggarwal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Student at Thapar Institute of Engineering & Technology (TIET)
 
-Here are some ideas to get you started:
+⚡ Electronics & Instrumentation Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+Currently exploring C Programming and Python.
+
+Interested in Embedded Systems, Electronics and Technology.
+
+Learning Data Structures and Algorithms.
+
+Building my technical skills through continuous learning and practice.
+
+🛠️ Tech Stack & Skills
+
+Languages: C, Python (Learning)
+
+Core Interests: Electronics, Instrumentation, Embedded Systems
+
+Tools: Git, GitHub, Google Colab
+
+🎯 Current Goals
+
+Strengthen programming fundamentals.
+
+Explore electronics and software integration.
+
+Build practical projects.
+
+Prepare for internships and technical opportunities.
+
+📫 Connect With Me
+
+LinkedIn
+
+⭐ Learning, building and growing one step at a time!
